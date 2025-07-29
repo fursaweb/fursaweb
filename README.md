@@ -5,8 +5,8 @@ I am Oleg Fursa. I'm a Front-end Developer specializing in React apps.
 
 - 🌱 I’m currently learning Node.js.
 - 🤔 I’m looking for new opportunities.
-- 💼 I'm open to freelancing projects. 
-- 🎧 I'm a music geek and I collect vinyl records.
+- 💼 I'm open to freelance projects. 
+- 🎧 I'm a music geek.
 
 ---
 
