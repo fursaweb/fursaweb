@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Oleg Fursa. I'm a Front-end Developer specializing in React apps. 
+I am Oleg Fursa. Frontend Engineer with commercial experience building modern web and mobile applications using React, TypeScript, and Next.js across media, banking, e-commerce, and entertainment domains. Experienced in developing scalable user interfaces, complex frontend functionality, API integrations, and responsive product experiences in cross-functional environments. Strong focus on modern frontend engineering, application architecture, and maintainable codebases. Currently expanding fullstack capabilities with Node.js, Express, Prisma, PostgreSQL, and REST API development through active product-oriented projects.
 
 ---
 
